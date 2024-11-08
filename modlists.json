@@ -12,7 +12,7 @@
       "testing",
       "<any tags you want in the UI, each in its own string"
     ],
-    "nsfw": true,
+    "nsfw": false,
     "image_contains_title": true,
     "force_down": false,
     "links": {
