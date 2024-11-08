@@ -1,0 +1,37 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Togethaa - Skyrim Together Modlist",
+    "description": "You will never see any better list around. If so you must tell me right away. I worked hard to make this one stable for the Coop Mod. Just for you to enjoy",
+    "author": "<RoYSe>",
+    "maintainers": [
+      "github/RoYSias"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "testing",
+      "<any tags you want in the UI, each in its own string"
+    ],
+    "nsfw": true,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "<link to an image to show in the UI>",
+      "readme": "<link to your readme for your modlist>",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "machineURL",
+      "discordURL": "<your discord link here>"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "TES4HwNhv0Y=",
+      "Size": 334764746,
+      "NumberOfArchives": 415,
+      "SizeOfArchives": 69318584164,
+      "NumberOfInstalledFiles": 42257,
+      "SizeOfInstalledFiles": 89518597692
+    },
+    "version": "0.1"
+  }
+]
